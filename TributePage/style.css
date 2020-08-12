@@ -1,0 +1,21 @@
+#title{
+    background-color:darkgray;
+}
+#image, #moviesImage {
+    max-width: 500px;
+    display: block;
+}
+
+#moviesImage{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#content{
+  border: 3px solid dimgrey;
+  padding: 5px;
+  margin: 10px;
+  overflow: auto;
+}
